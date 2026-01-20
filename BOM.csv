@@ -1,5 +1,6 @@
 Name,Quantity,Price,
-3D Printed Shell,1,$0,I'm printing it
-Bambulab mouse kit,1,$10.40,
-Shipping & Tax,,$8.28,
-Total,,$18.68,
+3D Printed Shell,1,$0,I will print it myself
+Bambulab mouse kit,1,$13.40,
+Taxes,-,$1.4,
+Shipping,-,$6.99,
+Total,-,$21.39,
