@@ -14,6 +14,9 @@ This was good practice for me to work with designing 3D printed parts with elect
 BOM:
 
 3D Printed Mouse Shell - I will print it myself
+
 Bambulab Mouse Kit - [BambuLab Link](https://us.store.bambulab.com/products/wireless-mouse-components-kit-002?srsltid=AfmBOorNd3E7ZI6lDfkm4nSAs4rdxZVofzY-9CbM8LcIHYs8h76AFeus) - $13.00
+
 Shipping and Taxes - $8.39
+
 Total - $21.39
