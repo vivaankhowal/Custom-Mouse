@@ -11,6 +11,8 @@ CAD: [View CAD on Onshape](https://cad.onshape.com/documents/fc07b257dd5340b48a2
 
 This was good practice for me to work with designing 3D printed parts with electronic parts. I have experience doing it before, but I always wanted a mouse for general use so it was nice to get some practice in.
 
+I made the project because I wanted a personalized mouse for gaming and CAD where I could customize it exactly how I wanted to, and just the thought of designing your own computer mouse is really cool.
+
 BOM:
 
 3D Printed Mouse Shell - I will print it myself
